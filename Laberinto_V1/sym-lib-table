@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SC0915)(type Legacy)(uri ${KIPRJMOD}/Footprint_laberinto_V1.pretty/SC0915.lib)(options "")(descr ""))
+  (lib (name TPS65131RGER)(type Legacy)(uri "C:/Users/usuario/Documents/Luis Adrian Cabrera/Electrónica/Kicad/Fuente_de_poder/Footprint_fuente.pretty/TPS65131RGER.lib")(options "")(descr ""))
+  (lib (name Footprint_laberinto_V1_pt2)(type Legacy)(uri ${KIPRJMOD}/Footprint_laberinto_V1_pt2.lib)(options "")(descr ""))
+)

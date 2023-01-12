@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Footprint_laberinto_V1)(type KiCad)(uri ${KIPRJMOD}/Footprint_laberinto_V1.pretty)(options "")(descr ""))
+  (lib (name Footprint_fuente)(type KiCad)(uri "C:/Users/usuario/Documents/Luis Adrian Cabrera/Electrónica/Kicad/Fuente_de_poder/Footprint_fuente.pretty")(options "")(descr ""))
+)
